@@ -64,7 +64,7 @@ npm run test:watch
 
 - For date and time Datepicker was installed and styled with figma. 
 
-- (Update: It took me 2 hours to figure out why the calendar doesn't close when selecting a date. I thought the problem was in the component itself, but it turned out the problem was in what was wrapping it. So I will never wrap it in a <label> again, only a <div>.)
+- (Update: It took me 2 hours to figure out why the calendar doesn't close when selecting a date. I thought the problem was in the component itself, but it turned out the problem was in what was wrapping it. So I will never wrap it in a "label" again, only a "div".)
 
 - For file attachment i made a new file to write a code and let the user review the attachment so i advice to try it with img but it supports others like pdf, txt...
 
